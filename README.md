@@ -19,9 +19,11 @@ http://www.adriancourreges.com/blog/2017/12/15/mgs-v-graphics-study/
 **Doom (2016)** - Adrian Courreges\
 http://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/
 
+**World of Tanks (2017 update)** - 80.lv (Artem Krizhanovsky, Daniil Kopytsko, Karyna Trychyk, Fedor Kletskov)\
+https://80.lv/articles/world-of-tanks-graphical-update-technical-overview/
+
 **Shadow Of Mordor (2017)** - The Code Corsair\
 http://www.elopezr.com/the-rendering-of-middle-earth-shadow-of-mordor/
 
 **Unity Adam pt 3 short film (2018)** - Unity development team\
 https://blogs.unity3d.com/2018/01/24/rendering-and-shading-in-adam-episode-3/
-
