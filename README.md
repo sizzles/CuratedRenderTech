@@ -4,7 +4,7 @@ These are some great articles for seeing how big budget titles breakdown their r
 
 Links and Authors below. Dates in brackets are when the title was released.
 
-**Far Cry 4 (2014)** - Stephen McAuley
+**Far Cry 4 (2014)** - Stephen McAuley\
 http://twvideo01.ubm-us.net/o1/vault/gdc2015/presentations/McAuley_Stephen_Rendering_the_World.pdf
 
 **Rise Of The Tomb Raider (2015)** - The Code Corsair\
