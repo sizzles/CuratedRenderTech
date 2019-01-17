@@ -22,6 +22,9 @@ http://www.adriancourreges.com/blog/2017/12/15/mgs-v-graphics-study/
 **Doom (2016)** - Adrian Courreges\
 http://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/
 
+**Horizon Zero Dawn - Decima Engine (2017)** - Giliam de Carpentier, Kohei Ishiyama
+https://d1z4o56rleaq4j.cloudfront.net/downloads/assets/DecimaSiggraph2017.pdf?mtime=20170803140215
+
 **World of Tanks (2017 update)** - 80.lv (Artem Krizhanovsky, Daniil Kopytsko, Karyna Trychyk, Fedor Kletskov)\
 https://80.lv/articles/world-of-tanks-graphical-update-technical-overview/
 
