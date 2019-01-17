@@ -1,10 +1,10 @@
 # CuratedRenderTech
-A curated selection of articles exploring render tech in games
+A curated selection of articles exploring render tech in games.
 These are some great articles for seeing how big budget titles breakdown their rendering pipelines.  
 
 Links and Authors below. Dates in brackets are when the title was released.
 
-**Destiny (2014)** Natalya Tatarchuk, Chris Tchou, Joe Venzon\
+**Destiny (2014)** - Natalya Tatarchuk, Chris Tchou, Joe Venzon\
 http://advances.realtimerendering.com/s2013/Tatarchuk-Destiny-SIGGRAPH2013.pdf
 
 **Far Cry 4 (2014)** - Stephen McAuley\
