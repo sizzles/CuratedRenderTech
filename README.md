@@ -1,6 +1,6 @@
 # CuratedRenderTech
 A curated selection of articles exploring render tech in games.
-These are some great articles for seeing how big budget titles breakdown their rendering pipelines.  
+These are some great articles for seeing how big budget titles breakdown their rendering pipelines.  Feel free to suggest additions or more articles if you find them interesting. 
 
 Links and Authors below. Dates in brackets are when the title was released.
 
