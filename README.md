@@ -4,6 +4,9 @@ These are some great articles for seeing how big budget titles breakdown their r
 
 Links and Authors below. Dates in brackets are when the title was released.
 
+**Destiny (2014)** Natalya Tatarchuk, Chris Tchou, Joe Venzon\
+http://advances.realtimerendering.com/s2013/Tatarchuk-Destiny-SIGGRAPH2013.pdf
+
 **Far Cry 4 (2014)** - Stephen McAuley\
 http://twvideo01.ubm-us.net/o1/vault/gdc2015/presentations/McAuley_Stephen_Rendering_the_World.pdf
 
@@ -22,5 +25,3 @@ http://www.elopezr.com/the-rendering-of-middle-earth-shadow-of-mordor/
 **Unity Adam pt 3 short film (2018)** - Unity development team\
 https://blogs.unity3d.com/2018/01/24/rendering-and-shading-in-adam-episode-3/
 
-**Destiny (2013)** Bungie\
-http://advances.realtimerendering.com/s2013/Tatarchuk-Destiny-SIGGRAPH2013.pdf
