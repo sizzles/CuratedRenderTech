@@ -4,6 +4,9 @@ These are some great articles for seeing how big budget titles breakdown their r
 
 Links and Authors below. Dates in brackets are when the title was released.
 
+**Rage - Megatexturing (2010)** - J.M.P. van Waveren\
+http://mrl.cs.vsb.cz/people/gaura/agu/05-JP_id_Tech_5_Challenges.pdf
+
 **Destiny (2014)** - Natalya Tatarchuk, Chris Tchou, Joe Venzon\
 http://advances.realtimerendering.com/s2013/Tatarchuk-Destiny-SIGGRAPH2013.pdf
 
