@@ -34,5 +34,8 @@ http://www.elopezr.com/the-rendering-of-middle-earth-shadow-of-mordor/
 **Unity Adam pt 3 short film (2018)** - Unity development team\
 https://blogs.unity3d.com/2018/01/24/rendering-and-shading-in-adam-episode-3/
 
+**Far Cry 5 - Open World(2018)** - Stephen McAuley\
+http://advances.realtimerendering.com/s2018/The%20Challenges%20of%20Rendering%20an%20Open%20World%20in%20Far%20Cry%205%20(With%20Notes).pdf
+
 **Red Dead Redemption 2 (2018/2019 PC release)** - Hüseyin\
 https://imgeself.github.io/posts/2020-06-19-graphics-study-rdr2/
